@@ -1,0 +1,3 @@
+2026-01-07 11:28:17,784 - INFO - Use pytorch device_name: cuda:0
+2026-01-07 11:28:17,784 - INFO - Load pretrained SentenceTransformer: Snowflake/snowflake-arctic-embed-m-v1.5
+2026-01-07 11:28:29,567 - INFO - 1 prompt is loaded, with the key: query
